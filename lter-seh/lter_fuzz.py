@@ -1,6 +1,6 @@
 from boofuzz import *
 
-host = "192.168.1.35"
+host = "192.168.5.96"
 port = 9999
 
 def main():
