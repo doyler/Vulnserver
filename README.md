@@ -6,3 +6,4 @@ For more information, please see the individual folders or my blog https://www.d
 * Vulnserver TRUN (3 Byte Overwrite) - https://www.doyler.net/security-not-included/three-byte-overwrite-vulnserver-trun
 * Vulnserver TRUN (Vanilla EIP) - https://www.doyler.net/security-not-included/vulnserver-trun-vanilla-eip
 * Vulnserver LTER (SEH) - https://www.doyler.net/security-not-included/vulnserver-lter-seh  //  https://www.doyler.net/security-not-included/lter-seh-continued
+* Vulnserver LTER (Vanilla EIP) - https://www.doyler.net/security-not-included/vulnserver-lter-eip-overwrite
